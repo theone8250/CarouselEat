@@ -1,0 +1,25 @@
+img {
+  border: 10px solid transparent !important;
+  height: 170px;
+  width: 120px;
+  border-radius: 10%;
+}
+
+span {
+  text-align: center;
+  font-size: 60px;
+  font-family: Microsoft JhengHei;
+  color: black;
+}
+
+.imgs {
+  border-radius: 10%;
+  border: 10px solid rgb(255, 0, 0) !important;
+  box-sizing: border-box;
+  box-shadow: rgb(255, 0, 0);
+}
+
+.clear {
+  border-radius: 10%;
+  transition: all 2.5s;
+}
